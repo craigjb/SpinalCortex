@@ -1,0 +1,6 @@
+target
+*.v
+simWorkspace
+coredump.bin
+ISE
+tmp
